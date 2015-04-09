@@ -1,2 +1,4 @@
 V1.0:
 initial, no changes
+v2.0:
+Remade board in eagle 5 to comply with team standards. Substituted coin battery for a 1.5F supercap. MPU6050 is also centered about the standoffs.
